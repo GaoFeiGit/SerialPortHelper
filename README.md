@@ -12,14 +12,13 @@
 	注意: 如果在windows xp系统上安装还需要crtdll.dll，C运行时组件，自行去下载
 
 **2. 引入Jar包SerialPortHelper-1.0.jar**
-
-	```xml
+```xml
 	<dependency>
 		<groupId>org.xdemo.utils</groupId>
 		<artifactId>SerialPortHelper</artifactId>
 		<version>1.0</version>
 	</dependency>
-	```
+```
 	非Maven项目，自行下载`SerialPortHelper-1.0.jar`包，放到项目中，也可以自行下载build
 	
 **3. 编写回调类**
