@@ -25,13 +25,18 @@
 **4. 配置文件，参考如下**
 	#端口号
 	PORT=COM5
+	
 	#波特率
 	BAUD_RATE=9600
+	
 	#奇偶校验	NONE:0,ODD:1,EVEN:2,MARK:3,SPACE:4
 	PARITY_BIT=0
+	
 	#数据位	5,6,7,8
 	DATA_BIT=8
+	
 	#停止位	1:1,2:2,1.5:3
 	STOP_BIT=1
+	
 	#字符编码
 	CHARSET=UTF-8
