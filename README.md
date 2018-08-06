@@ -1,6 +1,3 @@
-
-#xutils http://www.xdemo.org/ 　![Alt text](http://upload-images.jianshu.io/upload_images/607529-01ad59870a978b72.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 **1. 安装`RXTX`**
 	
 	假设JDK路径如下:
